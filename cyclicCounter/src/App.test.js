@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import { render, fireEvent, cleanup } from '@testing-library/react';
 
-import '@testing-library/jest-dom/extend-expect';
+import 'jest-dom/extend-expect';
 
 const renderApp = (cycle) => render(<App cycle={cycle} />);
 

@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="5" failures="0" time="2.853">
-  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-09-30T00:37:40" time="2.234" tests="5">
-    <testcase classname=" Testing for cycle length 1" name=" Testing for cycle length 1" time="0.068">
+<testsuites name="jest tests" tests="5" failures="0" time="1.705">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-10-01T22:01:46" time="1.705" tests="5">
+    <testcase classname=" Testing for cycle length 1" name=" Testing for cycle length 1" time="0.262">
     </testcase>
-    <testcase classname=" Testing for cycle length 2" name=" Testing for cycle length 2" time="0.035">
+    <testcase classname=" Testing for cycle length 2" name=" Testing for cycle length 2" time="0.109">
     </testcase>
-    <testcase classname=" Testing for cycle length 3" name=" Testing for cycle length 3" time="0.033">
+    <testcase classname=" Testing for cycle length 3" name=" Testing for cycle length 3" time="0.111">
     </testcase>
-    <testcase classname=" Testing for cycle length 7" name=" Testing for cycle length 7" time="0.066">
+    <testcase classname=" Testing for cycle length 7" name=" Testing for cycle length 7" time="0.141">
     </testcase>
-    <testcase classname=" Testing for cycle length 31" name=" Testing for cycle length 31" time="0.212">
+    <testcase classname=" Testing for cycle length 31" name=" Testing for cycle length 31" time="0.324">
     </testcase>
   </testsuite>
 </testsuites>
